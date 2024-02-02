@@ -15,7 +15,7 @@ public class LinkedListPractice
 		System.out.println("LinkedList Before Remove Operation:"+linkedList);
 		
 		linkedList.remove("B");
-		linkedList.remove("D");
+		linkedList.remove();
 		linkedList.removeLast();
 		System.out.println("LinkedList After Remove Operation: "+linkedList);
 		
